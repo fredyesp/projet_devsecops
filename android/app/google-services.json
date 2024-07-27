@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "258811640340",
+    "project_id": "chatm1ssi",
+    "storage_bucket": "chatm1ssi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258811640340:android:2922cbae06f979eddc8501",
+        "android_client_info": {
+          "package_name": "com.example.chatssi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuPws2Ko80nzyIJT3qIY7ovOxIcAnxJm8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
