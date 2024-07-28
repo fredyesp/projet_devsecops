@@ -54,14 +54,6 @@ Pour installer et exécuter ce projet localement, suivez ces étapes :
 ## Contribution
 Les contributions sont les bienvenues. Veuillez ouvrir une issue pour discuter de ce que vous aimeriez changer avant de soumettre une pull request.
 
-## Licence
-Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de détails.
 
 ## Auteurs
-- Votre Nom - Développeur Principal
-- Autres Contributeurs
-
----
-
-Merci d'avoir utilisé cette application de chat. Nous espérons que vous trouverez ce projet utile et instructif.
-
+- Jean Frédéric Sobel GOMIS - Développeur Principal
